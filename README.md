@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/ikramjamro" target="blank"><img src="https://img.shields.io/twitter/follow/ikramjamro?logo=twitter&style=for-the-badge" alt="ikramjamro" /></a> </p>
 
-- 🌱 I’m currently learning **Java,Open Source, AI.**
+- 🌱 I’m currently learning **Android Development,Kotlin,Jetpack Compose,Firebase,Java,Open Source.**
 
-- 💬 Ask me about **Java,C++,HTML,CSS,Open Source.**
+- 💬 Ask me about **Java,C++,HTML,CSS,Open Source,Kotlin,Firebase.**
 
 - 📫 How to reach me **ikramjamro314@gmail.com**
 
