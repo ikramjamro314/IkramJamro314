@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)](https://github.com/ikramjamro314)
 <h1 align="center">Hi 👋, I'm Ikram Jamro</h1>
-<h3 align="center">A passionate Software Engineering Student.</h3>
+<h3 align="center">A passionate Software Engineering Student and a skilled Android Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikramjamro314&label=Profile%20views&color=0e75b6&style=flat" alt="ikramjamro314" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, C++, HTML, CSS, Open Source, Kotlin, Firebase.**
 
-- 📫 How to reach me **ikramjamro314@gmail.com**
+- 📫 How to reach me **developerikram88@gmail.com**
 
 - ⚡ Fun fact **Always confused when learning something new.**
 
